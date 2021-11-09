@@ -1,0 +1,11 @@
+{
+ "name": "chip",
+ "website": "http://shambala.finance/",
+ "description": "Shambala, a legend that has long existed-the earth is hollow, there is a reverse world centered on the underground sun.",
+ "explorer": "https://bscscan.com/token/0x0E5c51cE714bd319A11BFb26BF0e13D8CEED1Ebe",
+ "type": "BEP20",
+ "symbol": "chip",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x0E5c51cE714bd319A11BFb26BF0e13D8CEED1Ebe"
+}
